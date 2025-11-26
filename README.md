@@ -1,3 +1,22 @@
+<p align="center">
+  
+  <!-- Java Version -->
+  <img src="https://img.shields.io/badge/Java-25-blue?logo=java&logoColor=white" />
+
+  <!-- Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/VanshPatyal/StudentManagementSystem?color=orange" />
+
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/VanshPatyal/StudentManagementSystem?color=brightgreen" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/VanshPatyal/StudentManagementSystem?style=social" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative" />
+
+</p>
+
 # 📚 Student Management System (Java, OOP Project)
 
 A simple yet powerful **console-based Student Management System** built using **Java** and **Object-Oriented Programming (OOP)** principles.  
